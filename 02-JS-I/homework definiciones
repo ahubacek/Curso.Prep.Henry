@@ -1,0 +1,11 @@
+
+Variables: son datos almacenados en el programa que pueden usarse luego para diferentes cosas, pueden ser texto o numeros.
+
+Strings: son palabras u oraciones que se escriben entre comillas y quedan almacenadas para usar luego como un texto que va a mostrarse en el programa.
+
+Funciones: con las funciones le estamos indicando al programa qué hacer con las variables en determinadas situaciones, pueden usarse para ahorrar trabajo cuando hay que realizar exactamente lo mismo pero con diferentes datos, estos datos dentro de la función van a llamarse argumentos y podemos ir modificandolos cada vez que evocamos la función. Pueden usarse variables que hayan sido declaradas por fuera de la función o pueden declararse dentro de ella. 
+Podemos usar el comando "return" para que nos muestre en la pantalla el resultado de alguna operación que se realice dentro de la función.
+
+Las declaraciones IF o ELSE son condicionales. Cuando usamos IF estamos queriendo decir por ejemplo: SI "esto" es igual a lo "otro" entonces hagamos tal cosa. Cuando decimos ELSE estariamos diciendo: SINO, hagamos esto otro.
+
+Valores booleanos: son basicamente TRUE o FALSE. Estos valores se nos devuelven cuando pedimos al sistema que realice alguna comparación lógica. Por ejemplo: 1 > 2. El sistema nos va a devolver el valor FALSE, ya que eso es falso.
