@@ -8,4 +8,4 @@ Podemos usar el comando "return" para que nos muestre en la pantalla el resultad
 
 Las declaraciones IF o ELSE son condicionales. Cuando usamos IF estamos queriendo decir por ejemplo: SI "esto" es igual a lo "otro" entonces hagamos tal cosa. Cuando decimos ELSE estariamos diciendo: SINO, hagamos esto otro.
 
-Valores booleanos: son basicamente TRUE o FALSE. Estos valores se nos devuelven cuando pedimos al sistema que realice alguna comparación lógica. Por ejemplo: 1 > 2. El sistema nos va a devolver el valor FALSE, ya que eso es falso.
+Valores booleanos: son  TRUE o FALSE. Estos valores se nos devuelven cuando pedimos al sistema que realice alguna comparación lógica. Por ejemplo: 1 > 2. El sistema nos va a devolver el valor FALSE, ya que eso es falso.
